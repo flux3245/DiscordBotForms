@@ -21,32 +21,6 @@ namespace DiscordBotFORM
         private DiscordSocketClient _client;
 
 
-        static ulong TakeId()
-        {
-
-
-            StreamReader l = new StreamReader(@"data.txt");
-
-
-
-
-
-            string a = l.ReadLine();
-
-
-
-
-            return ulong.Parse(a);
-
-
-        }
-
-
-
-
-
-
-
         [Command("ping")]
         public async Task Ping()
         {
