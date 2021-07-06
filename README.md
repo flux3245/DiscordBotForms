@@ -1,5 +1,5 @@
 # DiscordBotForms
-Bot de Discord en Español (con opciones de raide)
+Bot de Discord en Español (con opciones de raideo)
 # Comandos
 ping,
 user,
