@@ -7,5 +7,5 @@ say,
 server,
 clear,
 meme,
-reddit <Subreddit>,
+reddit Subreddit,
 ban
